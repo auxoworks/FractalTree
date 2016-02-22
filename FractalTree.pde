@@ -48,5 +48,4 @@ else
 //drawBranches((int)x+(int)endX1,(int)y-(int)endY1,(branchLength/2)*fractionLength,angle/2);
 
  }
-  System.out.println(endX1 + "," + endY1 + ","+ endX2 + "," + endY2 + "," + agl);
 }
